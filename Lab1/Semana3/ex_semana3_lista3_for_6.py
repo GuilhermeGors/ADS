@@ -1,7 +1,7 @@
 
 
 
-person = {name, civil_state}
+#person = {name, civil_state}
 
 
 
